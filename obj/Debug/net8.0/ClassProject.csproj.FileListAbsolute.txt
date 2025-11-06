@@ -1,0 +1,5 @@
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\ClassProject\obj\Debug\net8.0\ClassProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\ClassProject\obj\Debug\net8.0\ClassProject.AssemblyInfoInputs.cache
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\ClassProject\obj\Debug\net8.0\ClassProject.AssemblyInfo.cs
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\ClassProject\obj\Debug\net8.0\ClassProject.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\ClassProject\obj\Debug\net8.0\ClassProject.sourcelink.json
